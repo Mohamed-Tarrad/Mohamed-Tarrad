@@ -28,6 +28,6 @@ Here are some ideas to get you started:
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-tarrad-1b85761a9/)
 </span>
 ***
- <a href="https://github.com/Mohamed-Tarrad/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Tarrad&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mohamed-Magdy Tarrad github stats" /></a> 
+ <a href="https://github.com/Mohamed-Tarrad"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Tarrad&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mohamed-Magdy Tarrad github stats" /></a> 
  
 

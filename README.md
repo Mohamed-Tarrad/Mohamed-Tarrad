@@ -29,5 +29,6 @@ Here are some ideas to get you started:
 </span>
 ***
  <a href="https://github.com/Mohamed-Tarrad"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Tarrad&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mohamed-Magdy Tarrad github stats" /></a> 
- 
+ ***
+ ![](https://komarev.com/ghpvc/?username=Mohamed-Tarrad)
 

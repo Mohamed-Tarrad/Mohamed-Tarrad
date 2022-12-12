@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
  ![](https://komarev.com/ghpvc/?username=Mohamed-Tarrad)
+ [![](https://img.shields.io/github/followers/Mohamed-Tarrad?label=GitHub%20Followers)](https://github.com/Mohamed-Tarrad)
 
 ![Welcome!](welcome.jpg "My welcome Photo")
 
